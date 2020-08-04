@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "NAACL Student Research Workshop (SRW) 2019"
+title: "ACL Student Research Workshop (SRW) 2019"
 permalink: /
 order: 1
 ---
